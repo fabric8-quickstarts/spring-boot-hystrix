@@ -26,7 +26,7 @@
 
   <properties>
     <fabric8.version>2.2.176</fabric8.version>
-    <docker.maven.plugin.version>0.15.9</docker.maven.plugin.version>
+    <docker.maven.plugin.version>0.17.2</docker.maven.plugin.version>
 
     <!-- dependency versions -->
     <fabric8.version>2.2.148</fabric8.version>
