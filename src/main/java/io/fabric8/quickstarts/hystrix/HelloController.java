@@ -13,7 +13,6 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-
 package io.fabric8.quickstarts.hystrix;
 
 import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
@@ -34,7 +33,7 @@ public class HelloController {
             @HystrixProperty(name = "execution.isolation.thread.timeoutInMilliseconds", value = "5000")
     })
     public String hello() {
-        return restTemplate.getForObject("http://hello-service/hello", String.class);
+        return restTemplate.getForObject("http://spring-boot-webmvc", String.class);
     }
 
     public String helloFallback() {
