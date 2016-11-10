@@ -26,13 +26,12 @@
 
   <properties>
     <fabric8.version>2.2.176</fabric8.version>
-    <docker.maven.plugin.version>0.17.2</docker.maven.plugin.version>
 
     <!-- dependency versions -->
-    <fabric8.version>2.2.148</fabric8.version>
+    <fabric8.version>2.2.176</fabric8.version>
     <spring-boot.version>1.4.1.RELEASE</spring-boot.version>
     <spring-boot-plugin.version>1.4.1.RELEASE</spring-boot-plugin.version>
-    <spring-cloud-dependencies.version>Brixton.SR4</spring-cloud-dependencies.version>
+    <spring-cloud-dependencies.version>Camden.SR2</spring-cloud-dependencies.version>
 
     <!-- maven plugin versions -->
     <fabric8.maven.plugin.version>3.1.92</fabric8.maven.plugin.version>
