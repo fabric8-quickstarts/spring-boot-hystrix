@@ -42,7 +42,7 @@ Then the following command will package your app and run it on Kubernetes:
 mvn fabric8:run
 ```
 
-To call the servie from a web browser you need to append the context path `/hello` to the service URL, something like
+To call the service from a web browser you need to append the context path `/hello` to the service URL, something like
 
     http://192.168.99.100:31824/hello
 
