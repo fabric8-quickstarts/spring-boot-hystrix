@@ -25,16 +25,16 @@
   <name>Fabric8 :: Quickstarts :: Spring-Boot :: Hystrix</name>
 
   <properties>
-    <fabric8.version>2.2.192</fabric8.version>
+    <fabric8.version>2.3.1</fabric8.version>
 
     <!-- dependency versions -->
     <fabric8.version>2.2.176</fabric8.version>
-    <spring-boot.version>1.4.3.RELEASE</spring-boot.version>
-    <spring-boot-plugin.version>1.4.3.RELEASE</spring-boot-plugin.version>
+    <spring-boot.version>1.4.5.RELEASE</spring-boot.version>
+    <spring-boot-plugin.version>1.4.5.RELEASE</spring-boot-plugin.version>
     <spring-cloud-dependencies.version>Brixton.SR4</spring-cloud-dependencies.version>
 
     <!-- maven plugin versions -->
-    <fabric8.maven.plugin.version>3.2.13</fabric8.maven.plugin.version>
+    <fabric8.maven.plugin.version>3.5.4</fabric8.maven.plugin.version>
     <exec-maven-plugin.version>1.5.0</exec-maven-plugin.version>
     <maven-compiler-plugin.version>3.6.0</maven-compiler-plugin.version>
     <maven-shade-plugin.version>2.3</maven-shade-plugin.version>
